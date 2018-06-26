@@ -1,0 +1,16 @@
+h1 {
+    margin: 10vh 10vw 10vh 10vw;
+    font-size: 500%;
+    color: darkred;
+}
+
+.Square {
+    height: 30vh;
+    width: 20vw;
+    border: 5px solid black;
+
+}
+
+.Line {
+    display: flex;
+}
